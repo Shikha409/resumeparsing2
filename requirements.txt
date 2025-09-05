@@ -9,10 +9,7 @@ ipython
 streamlit
 xml-python
 opencv-python
-#tensorflow>=2.12.0
 torch
-#keras==2.2.5
-Python==3.7.10
 torchvision
 tensorflow==2.12.0
 keras==2.12.0

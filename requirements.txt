@@ -11,4 +11,4 @@ xml-python
 opencv-python
 torch
 torchvision
-keras==2.17.0
+tensorflow==2.17.1
